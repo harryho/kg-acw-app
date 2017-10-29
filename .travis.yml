@@ -1,0 +1,14 @@
+language: node_js
+
+
+node_js:
+  - "6"
+  - "7"
+  - "node"
+
+install:
+  - npm install
+
+script:
+  - npm run compile
+  - npm run coveralls
