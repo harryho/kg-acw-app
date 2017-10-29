@@ -222,7 +222,6 @@ describe('CounterHelper', () => {
         CounterHelper.api = {
             called: false,
             callApi: function () {
-                console.log( '..................')
                 this.called = true;
             }
         }
@@ -230,9 +229,7 @@ describe('CounterHelper', () => {
         CounterHelper.category = "ABC";
         CounterHelper.calc(data);
 
-        console.log(CounterHelper.api.called)
-
-        // assert.isTrue(CounterHelper.api.called)
+        assert.isTrue(CounterHelper.api.called)
 
     })
 

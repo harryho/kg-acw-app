@@ -121,10 +121,6 @@ export class CounterHelper {
                                 CounterHelper.weightCounter.weight += weight;
                                 CounterHelper.weightCounter.count += 1;
                             }
-                            // }
-                            // catch(e){
-                            //     // No Action
-                            // }
                         }
                     })
             }
