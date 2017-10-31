@@ -1,6 +1,6 @@
 # Kg-Acw-App
 
-[![Build Status](https://travis-ci.org/harryho/kw-acw-app.svg?branch=master)](https://travis-ci.org/harryho/kw-acw-app)
+[![Build Status](https://travis-ci.org/harryho/kg-acw-app.svg?branch=master)](https://travis-ci.org/harryho/kg-acw-app)
 [![Coverage Status](https://coveralls.io/repos/github/harryho/kg-acw-app/badge.svg?branch=master)](https://coveralls.io/github/harryho/kg-acw-app?branch=master)
 
 It is a repository of kg acw app
